@@ -1,0 +1,6 @@
+
+openai
+streamlit
+pdfplumber
+dotenv
+docx
